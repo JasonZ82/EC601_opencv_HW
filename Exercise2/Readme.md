@@ -1,5 +1,7 @@
 The Exercise2 is about Color.
 
+The python code is in ColorImage.py and others are the results.
+
 The value of the pixel at(20,25) for RGB is 106,122,255.
 
 For YCbCr is 151,181,103
