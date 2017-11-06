@@ -1,5 +1,11 @@
 The Exercise2 is about Color.
 
+The value of the pixel at(20,25) for RGB is 106,122,255.
+
+For YCbCr is 151,181,103
+
+For HSV is 4,135,225
+
 For RGB, the range for each color is:0-255
 
 For YCbCr, the Y is Luminance, Cb and Cr are chroma components for blue and red. There are two sitation for range in YCbCr.
