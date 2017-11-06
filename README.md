@@ -1,5 +1,7 @@
 # EC601_opencv_HW
 OpenCV Homework
+Zisen Zhou
+jason826@bu.edu
 
 # Exercise1
 For the Exercise1, the picture is represented by pixel as a matrix which shows as the format of cvMat. Each pixel can be accessed by CV_MAT_ELEM().
